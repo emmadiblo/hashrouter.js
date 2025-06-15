@@ -23,9 +23,9 @@ Ajoutez simplement le fichier `hashrouter.js` à votre projet :
 <body>
     <!-- Navigation -->
     <nav>
-        <a href="#/home">Accueil</a>
-        <a href="#/about">À propos</a>
-        <a href="#/contact">Contact</a>
+        <a href="./#/home">Accueil</a>
+        <a href="./#/about">À propos</a>
+        <a href="./#/contact">Contact</a>
     </nav>
 
     <!-- Conteneur où les pages seront chargées -->
